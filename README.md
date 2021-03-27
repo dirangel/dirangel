@@ -30,3 +30,11 @@ Reach me out 🎯
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-olair-rangel-035aa2110/)](https://www.linkedin.com/in/diego-olair-rangel-035aa2110/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegorangel.frontend@gmail.com)](mailto:diegorangel.frontend@gmail.com)
+
+
+<a href="https://github.com/dirangel">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=dirangel&show_icons=true&theme=dracula" alt="dirangel" />
+</a>
+<a href="https://github.com/dirangel">
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirangel&layout=compact&theme=dracula" alt="dirangel" />
+</a>
