@@ -1,5 +1,3 @@
-# Hello ⚡
-
 My name is Diego Rangel, I'm from Brazil A Front-End Developer, 
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
@@ -7,12 +5,11 @@ I'm passionate about solving problems and learning. Always open to new challenge
 🌏 From PR living in Curitiba
 💻 Front-End At [Positivo Soluções Didáticas](https://sistemapositivo.com.br/)
 📌 Sharing a little of my Front-End journey at: 
-
 [Surge.sh studiON](drangel-googleglass.surge.sh/)
-
 [Surge.sh flexBlog](drangel-flexblog.surge.sh)
-
 [Surge.sh googleGlass](drangel-googleglass.surge.sh/)
+
+Reach me out 🚩
 
 Reach me out 🚩
 
