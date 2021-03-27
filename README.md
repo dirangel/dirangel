@@ -10,9 +10,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 🌏 From PR living in Curitiba
 - 💻 Front-End At [Positivo Soluções Didáticas](https://sistemapositivo.com.br/)
 - 📌 Sharing a little of my Front-End journey at: 
-- [Surge.sh studiON](http://drangel-studion.surge.sh/)
-- [Surge.sh flexBlog](http://drangel-flexblog.surge.sh/#preco)
-- [Surge.sh googleGlass](http://drangel-googleglass.surge.sh/)
+- [Project studiON](http://drangel-studion.surge.sh/)
+- [Project flexBlog](http://drangel-flexblog.surge.sh/#preco)
+- [Project googleGlass](http://drangel-googleglass.surge.sh/)
 
 Reach me out 🚩
 
