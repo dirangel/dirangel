@@ -11,7 +11,11 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 💻 Front-End At [Positivo Soluções Didáticas](https://sistemapositivo.com.br/)
 - 🚀 Sharing a little of my Front-End journey at: 
 
-[Project studiON](http://drangel-studion.surge.sh/) |
+- Under construction:
+[Project magBank](http://drangel-magbank.surge.sh/) | 
+[Project studiON](http://drangel-studion.surge.sh/) 
+
+- Finish:
 [Project flexBlog](http://drangel-flexblog.surge.sh/#preco) |
 [Project googleGlass](http://drangel-googleglass.surge.sh/)
 
