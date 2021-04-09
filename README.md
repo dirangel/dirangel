@@ -13,7 +13,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 - Under construction:
 [Project magBank](http://drangel-magbank.surge.sh/) | 
-[Project studiON](http://drangel-studion.surge.sh/) 
+[Project studiON](http://drangel-studion.surge.sh/) |
+[Project dogs](http://drangel-dogs.surge.sh/)
 
 - Finish:
 [Project flexBlog](http://drangel-flexblog.surge.sh/#preco) |
