@@ -20,8 +20,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 [Project routers](http://drangel-routers.surge.sh/) |
 [Project flexBlog](http://drangel-flexblog.surge.sh/#preco) |
 [Project animaisFantasticos](http://drangel-animaisfantasticos.surge.sh/) |
-[Project googleGlass](http://drangel-googleglass.surge.sh/) |
-[Project Css](http://drangel-css.surge.sh/main/index.html)
+[Project Css](http://drangel-css.surge.sh/main/index.html) |
+[Project googleGlass](http://drangel-googleglass.surge.sh/) 
+
 
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
