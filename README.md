@@ -19,6 +19,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - Finish:
 [Project routers](http://drangel-routers.surge.sh/) |
 [Project flexBlog](http://drangel-flexblog.surge.sh/#preco) |
+[Project wildbeast](http://drangel-wildbeast.surge.sh/main/index.html) |
 [Project animaisFantasticos](http://drangel-animaisfantasticos.surge.sh/) |
 [Project Css](http://drangel-css.surge.sh/main/index.html) |
 [Project googleGlass](http://drangel-googleglass.surge.sh/) 
