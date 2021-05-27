@@ -11,7 +11,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 💻 Front-End At [Positivo Soluções Didáticas](https://sistemapositivo.com.br/)
 - 🚀 Sharing a little of my Front-End journey at: 
 
-- [Portfolio] (http://drangel-portifolio.surge.sh/)
+[Portfolio](http://drangel-portifolio.surge.sh/)
 
 - Under construction:
 [Project magBank](http://drangel-magbank.surge.sh/) | 
