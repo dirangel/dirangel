@@ -4,12 +4,11 @@ My name is Diego Rangel, I'm from Brazil A Front-End Developer,
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-### 🦁 "There is no glory without sacrifice" 🦁
 
 
-- 🌏 From PR living in Curitiba
-- 💻 Front-End At [Positivo Soluções Didáticas](https://sistemapositivo.com.br/)
-- 🚀 Sharing a little of my Front-End journey at: 
+- From PR living in Curitiba
+- Front-End At [Positivo Soluções Didáticas](https://sistemapositivo.com.br/)
+- Sharing a little of my Front-End journey at: 
 
 access my [Portfolio](http://drangel-portifolio.surge.sh/)
 
