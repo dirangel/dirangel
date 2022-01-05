@@ -7,8 +7,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 - From PR living in Curitiba
-- Front-End At [Positivo Soluções Didáticas](https://sistemapositivo.com.br/)
-- Sharing a little of my Front-End journey at: 
+- Front-End At [Compass UOL](https://compass.uol/)
+- Sharing a little of my Automation Test journey at: 
 
 access my [Portfolio](http://drangel-portifolio.surge.sh/)
 
